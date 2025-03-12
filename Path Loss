@@ -1,0 +1,4 @@
+#Path Loss/Interference Model
+Aim - 	a. Calculate Path Loss from one each BS to each user. Answer should be given in the form of a 2x2 path loss matrix.
+        b. Calculate Interference from each BS to each user. Answer should be given in the form of a 2x2 interference matrix.
+        c. Explain, or define, what is SNR and SINR (mathematically).
